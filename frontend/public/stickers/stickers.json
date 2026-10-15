@@ -1,0 +1,1341 @@
+{
+  "version": 2,
+  "stickers": [
+    {
+      "id": "cute_01",
+      "name": "Cute 01",
+      "category": "cute",
+      "src": "/stickers/cute/cute_01.png",
+      "thumb": "/stickers/thumbs/cute/cute_01.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_02",
+      "name": "Cute 02",
+      "category": "cute",
+      "src": "/stickers/cute/cute_02.png",
+      "thumb": "/stickers/thumbs/cute/cute_02.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_03",
+      "name": "Cute 03",
+      "category": "cute",
+      "src": "/stickers/cute/cute_03.png",
+      "thumb": "/stickers/thumbs/cute/cute_03.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_04",
+      "name": "Cute 04",
+      "category": "cute",
+      "src": "/stickers/cute/cute_04.png",
+      "thumb": "/stickers/thumbs/cute/cute_04.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_05",
+      "name": "Cute 05",
+      "category": "cute",
+      "src": "/stickers/cute/cute_05.png",
+      "thumb": "/stickers/thumbs/cute/cute_05.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_06",
+      "name": "Cute 06",
+      "category": "cute",
+      "src": "/stickers/cute/cute_06.png",
+      "thumb": "/stickers/thumbs/cute/cute_06.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_07",
+      "name": "Cute 07",
+      "category": "cute",
+      "src": "/stickers/cute/cute_07.png",
+      "thumb": "/stickers/thumbs/cute/cute_07.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_08",
+      "name": "Cute 08",
+      "category": "cute",
+      "src": "/stickers/cute/cute_08.png",
+      "thumb": "/stickers/thumbs/cute/cute_08.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_09",
+      "name": "Cute 09",
+      "category": "cute",
+      "src": "/stickers/cute/cute_09.png",
+      "thumb": "/stickers/thumbs/cute/cute_09.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_10",
+      "name": "Cute 10",
+      "category": "cute",
+      "src": "/stickers/cute/cute_10.png",
+      "thumb": "/stickers/thumbs/cute/cute_10.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_11",
+      "name": "Cute 11",
+      "category": "cute",
+      "src": "/stickers/cute/cute_11.png",
+      "thumb": "/stickers/thumbs/cute/cute_11.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_12",
+      "name": "Cute 12",
+      "category": "cute",
+      "src": "/stickers/cute/cute_12.png",
+      "thumb": "/stickers/thumbs/cute/cute_12.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_13",
+      "name": "Cute 13",
+      "category": "cute",
+      "src": "/stickers/cute/cute_13.png",
+      "thumb": "/stickers/thumbs/cute/cute_13.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_14",
+      "name": "Cute 14",
+      "category": "cute",
+      "src": "/stickers/cute/cute_14.png",
+      "thumb": "/stickers/thumbs/cute/cute_14.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_15",
+      "name": "Cute 15",
+      "category": "cute",
+      "src": "/stickers/cute/cute_15.png",
+      "thumb": "/stickers/thumbs/cute/cute_15.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_16",
+      "name": "Cute 16",
+      "category": "cute",
+      "src": "/stickers/cute/cute_16.png",
+      "thumb": "/stickers/thumbs/cute/cute_16.webp",
+      "source": "original"
+    },
+    {
+      "id": "cute_17",
+      "name": "Cute 17",
+      "category": "cute",
+      "src": "/stickers/cute/cute_17.png",
+      "thumb": "/stickers/thumbs/cute/cute_17.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_01",
+      "name": "Emoji 01",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_01.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_01.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_02",
+      "name": "Emoji 02",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_02.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_02.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_03",
+      "name": "Emoji 03",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_03.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_03.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_04",
+      "name": "Emoji 04",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_04.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_04.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_05",
+      "name": "Emoji 05",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_05.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_05.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_06",
+      "name": "Emoji 06",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_06.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_06.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_07",
+      "name": "Emoji 07",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_07.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_07.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_08",
+      "name": "Emoji 08",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_08.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_08.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_09",
+      "name": "Emoji 09",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_09.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_09.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_10",
+      "name": "Emoji 10",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_10.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_10.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_11",
+      "name": "Emoji 11",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_11.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_11.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_12",
+      "name": "Emoji 12",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_12.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_12.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_13",
+      "name": "Emoji 13",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_13.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_13.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_14",
+      "name": "Emoji 14",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_14.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_14.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_15",
+      "name": "Emoji 15",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_15.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_15.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_16",
+      "name": "Emoji 16",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_16.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_16.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_17",
+      "name": "Emoji 17",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_17.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_17.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_18",
+      "name": "Emoji 18",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_18.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_18.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_19",
+      "name": "Emoji 19",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_19.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_19.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_20",
+      "name": "Emoji 20",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_20.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_20.webp",
+      "source": "original"
+    },
+    {
+      "id": "emoji_21",
+      "name": "Emoji 21",
+      "category": "emoji",
+      "src": "/stickers/emoji/emoji_21.png",
+      "thumb": "/stickers/thumbs/emoji/emoji_21.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_01",
+      "name": "Gothic 01",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_01.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_01.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_02",
+      "name": "Gothic 02",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_02.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_02.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_03",
+      "name": "Gothic 03",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_03.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_03.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_04",
+      "name": "Gothic 04",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_04.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_04.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_05",
+      "name": "Gothic 05",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_05.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_05.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_06",
+      "name": "Gothic 06",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_06.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_06.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_07",
+      "name": "Gothic 07",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_07.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_07.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_08",
+      "name": "Gothic 08",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_08.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_08.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_09",
+      "name": "Gothic 09",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_09.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_09.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_10",
+      "name": "Gothic 10",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_10.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_10.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_11",
+      "name": "Gothic 11",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_11.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_11.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_12",
+      "name": "Gothic 12",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_12.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_12.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_13",
+      "name": "Gothic 13",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_13.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_13.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_14",
+      "name": "Gothic 14",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_14.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_14.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_15",
+      "name": "Gothic 15",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_15.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_15.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_16",
+      "name": "Gothic 16",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_16.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_16.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_17",
+      "name": "Gothic 17",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_17.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_17.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_18",
+      "name": "Gothic 18",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_18.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_18.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_19",
+      "name": "Gothic 19",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_19.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_19.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_20",
+      "name": "Gothic 20",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_20.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_20.webp",
+      "source": "original"
+    },
+    {
+      "id": "gothic_21",
+      "name": "Gothic 21",
+      "category": "gothic",
+      "src": "/stickers/gothic/gothic_21.png",
+      "thumb": "/stickers/thumbs/gothic/gothic_21.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_01",
+      "name": "Kawaii 01",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_01.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_01.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_02",
+      "name": "Kawaii 02",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_02.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_02.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_03",
+      "name": "Kawaii 03",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_03.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_03.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_04",
+      "name": "Kawaii 04",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_04.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_04.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_05",
+      "name": "Kawaii 05",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_05.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_05.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_06",
+      "name": "Kawaii 06",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_06.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_06.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_07",
+      "name": "Kawaii 07",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_07.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_07.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_08",
+      "name": "Kawaii 08",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_08.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_08.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_09",
+      "name": "Kawaii 09",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_09.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_09.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_10",
+      "name": "Kawaii 10",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_10.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_10.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_11",
+      "name": "Kawaii 11",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_11.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_11.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_12",
+      "name": "Kawaii 12",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_12.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_12.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_13",
+      "name": "Kawaii 13",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_13.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_13.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_14",
+      "name": "Kawaii 14",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_14.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_14.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_15",
+      "name": "Kawaii 15",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_15.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_15.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_16",
+      "name": "Kawaii 16",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_16.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_16.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_17",
+      "name": "Kawaii 17",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_17.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_17.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_18",
+      "name": "Kawaii 18",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_18.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_18.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_19",
+      "name": "Kawaii 19",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_19.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_19.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_20",
+      "name": "Kawaii 20",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_20.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_20.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_21",
+      "name": "Kawaii 21",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_21.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_21.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_22",
+      "name": "Kawaii 22",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_22.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_22.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_23",
+      "name": "Kawaii 23",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_23.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_23.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_24",
+      "name": "Kawaii 24",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_24.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_24.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_25",
+      "name": "Kawaii 25",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_25.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_25.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_26",
+      "name": "Kawaii 26",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_26.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_26.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_27",
+      "name": "Kawaii 27",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_27.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_27.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_28",
+      "name": "Kawaii 28",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_28.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_28.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_29",
+      "name": "Kawaii 29",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_29.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_29.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_30",
+      "name": "Kawaii 30",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_30.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_30.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_31",
+      "name": "Kawaii 31",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_31.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_31.webp",
+      "source": "original"
+    },
+    {
+      "id": "kawaii_32",
+      "name": "Kawaii 32",
+      "category": "kawaii",
+      "src": "/stickers/kawaii/kawaii_32.png",
+      "thumb": "/stickers/thumbs/kawaii/kawaii_32.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_01",
+      "name": "Photobooth 01",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_01.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_01.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_02",
+      "name": "Photobooth 02",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_02.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_02.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_03",
+      "name": "Photobooth 03",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_03.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_03.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_04",
+      "name": "Photobooth 04",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_04.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_04.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_05",
+      "name": "Photobooth 05",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_05.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_05.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_06",
+      "name": "Photobooth 06",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_06.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_06.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_07",
+      "name": "Photobooth 07",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_07.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_07.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_08",
+      "name": "Photobooth 08",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_08.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_08.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_09",
+      "name": "Photobooth 09",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_09.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_09.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_10",
+      "name": "Photobooth 10",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_10.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_10.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_11",
+      "name": "Photobooth 11",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_11.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_11.webp",
+      "source": "original"
+    },
+    {
+      "id": "photobooth_12",
+      "name": "Photobooth 12",
+      "category": "photobooth",
+      "src": "/stickers/photobooth/photobooth_12.png",
+      "thumb": "/stickers/thumbs/photobooth/photobooth_12.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_01",
+      "name": "Retro 01",
+      "category": "retro",
+      "src": "/stickers/retro/retro_01.png",
+      "thumb": "/stickers/thumbs/retro/retro_01.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_02",
+      "name": "Retro 02",
+      "category": "retro",
+      "src": "/stickers/retro/retro_02.png",
+      "thumb": "/stickers/thumbs/retro/retro_02.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_03",
+      "name": "Retro 03",
+      "category": "retro",
+      "src": "/stickers/retro/retro_03.png",
+      "thumb": "/stickers/thumbs/retro/retro_03.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_04",
+      "name": "Retro 04",
+      "category": "retro",
+      "src": "/stickers/retro/retro_04.png",
+      "thumb": "/stickers/thumbs/retro/retro_04.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_05",
+      "name": "Retro 05",
+      "category": "retro",
+      "src": "/stickers/retro/retro_05.png",
+      "thumb": "/stickers/thumbs/retro/retro_05.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_06",
+      "name": "Retro 06",
+      "category": "retro",
+      "src": "/stickers/retro/retro_06.png",
+      "thumb": "/stickers/thumbs/retro/retro_06.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_07",
+      "name": "Retro 07",
+      "category": "retro",
+      "src": "/stickers/retro/retro_07.png",
+      "thumb": "/stickers/thumbs/retro/retro_07.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_08",
+      "name": "Retro 08",
+      "category": "retro",
+      "src": "/stickers/retro/retro_08.png",
+      "thumb": "/stickers/thumbs/retro/retro_08.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_09",
+      "name": "Retro 09",
+      "category": "retro",
+      "src": "/stickers/retro/retro_09.png",
+      "thumb": "/stickers/thumbs/retro/retro_09.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_10",
+      "name": "Retro 10",
+      "category": "retro",
+      "src": "/stickers/retro/retro_10.png",
+      "thumb": "/stickers/thumbs/retro/retro_10.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_11",
+      "name": "Retro 11",
+      "category": "retro",
+      "src": "/stickers/retro/retro_11.png",
+      "thumb": "/stickers/thumbs/retro/retro_11.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_12",
+      "name": "Retro 12",
+      "category": "retro",
+      "src": "/stickers/retro/retro_12.png",
+      "thumb": "/stickers/thumbs/retro/retro_12.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_13",
+      "name": "Retro 13",
+      "category": "retro",
+      "src": "/stickers/retro/retro_13.png",
+      "thumb": "/stickers/thumbs/retro/retro_13.webp",
+      "source": "original"
+    },
+    {
+      "id": "retro_14",
+      "name": "Retro 14",
+      "category": "retro",
+      "src": "/stickers/retro/retro_14.png",
+      "thumb": "/stickers/thumbs/retro/retro_14.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_01",
+      "name": "Seasonal 01",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_01.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_01.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_02",
+      "name": "Seasonal 02",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_02.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_02.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_03",
+      "name": "Seasonal 03",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_03.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_03.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_04",
+      "name": "Seasonal 04",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_04.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_04.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_05",
+      "name": "Seasonal 05",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_05.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_05.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_06",
+      "name": "Seasonal 06",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_06.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_06.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_07",
+      "name": "Seasonal 07",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_07.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_07.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_08",
+      "name": "Seasonal 08",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_08.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_08.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_09",
+      "name": "Seasonal 09",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_09.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_09.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_10",
+      "name": "Seasonal 10",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_10.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_10.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_11",
+      "name": "Seasonal 11",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_11.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_11.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_12",
+      "name": "Seasonal 12",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_12.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_12.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_13",
+      "name": "Seasonal 13",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_13.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_13.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_14",
+      "name": "Seasonal 14",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_14.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_14.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_15",
+      "name": "Seasonal 15",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_15.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_15.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_16",
+      "name": "Seasonal 16",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_16.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_16.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_17",
+      "name": "Seasonal 17",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_17.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_17.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_18",
+      "name": "Seasonal 18",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_18.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_18.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_19",
+      "name": "Seasonal 19",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_19.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_19.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_20",
+      "name": "Seasonal 20",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_20.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_20.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_21",
+      "name": "Seasonal 21",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_21.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_21.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_22",
+      "name": "Seasonal 22",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_22.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_22.webp",
+      "source": "original"
+    },
+    {
+      "id": "seasonal_23",
+      "name": "Seasonal 23",
+      "category": "seasonal",
+      "src": "/stickers/seasonal/seasonal_23.png",
+      "thumb": "/stickers/thumbs/seasonal/seasonal_23.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_01",
+      "name": "Y2K 01",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_01.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_01.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_02",
+      "name": "Y2K 02",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_02.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_02.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_03",
+      "name": "Y2K 03",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_03.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_03.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_04",
+      "name": "Y2K 04",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_04.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_04.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_05",
+      "name": "Y2K 05",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_05.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_05.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_06",
+      "name": "Y2K 06",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_06.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_06.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_07",
+      "name": "Y2K 07",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_07.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_07.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_08",
+      "name": "Y2K 08",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_08.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_08.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_09",
+      "name": "Y2K 09",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_09.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_09.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_10",
+      "name": "Y2K 10",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_10.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_10.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_11",
+      "name": "Y2K 11",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_11.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_11.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_12",
+      "name": "Y2K 12",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_12.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_12.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_13",
+      "name": "Y2K 13",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_13.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_13.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_14",
+      "name": "Y2K 14",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_14.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_14.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_15",
+      "name": "Y2K 15",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_15.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_15.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_16",
+      "name": "Y2K 16",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_16.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_16.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_17",
+      "name": "Y2K 17",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_17.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_17.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_18",
+      "name": "Y2K 18",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_18.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_18.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_19",
+      "name": "Y2K 19",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_19.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_19.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_20",
+      "name": "Y2K 20",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_20.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_20.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_21",
+      "name": "Y2K 21",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_21.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_21.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_22",
+      "name": "Y2K 22",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_22.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_22.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_23",
+      "name": "Y2K 23",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_23.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_23.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_24",
+      "name": "Y2K 24",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_24.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_24.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_25",
+      "name": "Y2K 25",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_25.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_25.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_26",
+      "name": "Y2K 26",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_26.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_26.webp",
+      "source": "original"
+    },
+    {
+      "id": "y2k_27",
+      "name": "Y2K 27",
+      "category": "y2k",
+      "src": "/stickers/y2k/y2k_27.png",
+      "thumb": "/stickers/thumbs/y2k/y2k_27.webp",
+      "source": "original"
+    }
+  ]
+}
