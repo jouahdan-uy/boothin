@@ -1,8 +1,8 @@
 import { Hono } from "hono";
-import type { Config } from "../config.ts";
-import { TOKEN_PATTERN } from "../lib/image.ts";
-import { qrToSvg } from "../services/qr.ts";
-import type { SessionService } from "../services/sessions.ts";
+import type { Config } from "../config.js";
+import { TOKEN_PATTERN } from "../lib/image.js";
+import { qrToSvg } from "../services/qr.js";
+import type { SessionService } from "../services/sessions.js";
 
 export function qrRoutes(config: Config, sessions: SessionService) {
   const app = new Hono();

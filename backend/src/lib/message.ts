@@ -1,4 +1,4 @@
-import { isValidEmail } from "./image.ts";
+import { isValidEmail } from "./image.js";
 
 export const MAX_MESSAGE = 2000;
 export const MIN_MESSAGE = 3;

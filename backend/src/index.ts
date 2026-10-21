@@ -1,4 +1,4 @@
-import { createApp } from "./app.ts";
+import { createApp } from "./app.js";
 
 const { app, config, sessions, storage } = createApp();
 

@@ -1,5 +1,5 @@
-import type { Config } from "../config.ts";
-import { escapeHtml, singleLine, type OwnerMessage } from "../lib/message.ts";
+import type { Config } from "../config.js";
+import { escapeHtml, singleLine, type OwnerMessage } from "../lib/message.js";
 
 export class MailNotConfiguredError extends Error {}
 export class OwnerNotConfiguredError extends Error {}

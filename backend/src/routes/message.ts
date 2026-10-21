@@ -1,13 +1,13 @@
 import { Hono } from "hono";
-import type { Config } from "../config.ts";
-import { validateMessage } from "../lib/message.ts";
-import { rateLimit } from "../middleware/rateLimit.ts";
+import type { Config } from "../config.js";
+import { validateMessage } from "../lib/message.js";
+import { rateLimit } from "../middleware/rateLimit.js";
 import {
   MailNotConfiguredError,
   OwnerNotConfiguredError,
   sendOwnerMessage,
   type MessageSender,
-} from "../services/mail.ts";
+} from "../services/mail.js";
 
 const MAX_BODY_BYTES = 16 * 1024;
 

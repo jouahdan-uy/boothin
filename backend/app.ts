@@ -1,4 +1,5 @@
 
+import { Hono } from "hono";
 import { createApp } from "./src/app.js";
 
 const { app, sessions } = createApp();

@@ -1,9 +1,9 @@
 import { Hono } from "hono";
-import type { Config } from "../config.ts";
-import { isValidEmail, TOKEN_PATTERN } from "../lib/image.ts";
-import { rateLimit } from "../middleware/rateLimit.ts";
-import { MailNotConfiguredError, sendPhotoMail } from "../services/mail.ts";
-import type { SessionService } from "../services/sessions.ts";
+import type { Config } from "../config.js";
+import { isValidEmail, TOKEN_PATTERN } from "../lib/image.js";
+import { rateLimit } from "../middleware/rateLimit.js";
+import { MailNotConfiguredError, sendPhotoMail } from "../services/mail.js";
+import type { SessionService } from "../services/sessions.js";
 
 export type MailSender = typeof sendPhotoMail;
 

@@ -1,15 +1,15 @@
 import { Hono } from "hono";
 import { cors } from "hono/cors";
-import { loadConfig, type Config } from "./config.ts";
-import { emailRoutes, type MailSender } from "./routes/email.ts";
-import { messageRoutes } from "./routes/message.ts";
-import { photoRoutes } from "./routes/photos.ts";
-import { printRoutes } from "./routes/print.ts";
-import { qrRoutes } from "./routes/qr.ts";
-import { sessionRoutes } from "./routes/sessions.ts";
-import { sendOwnerMessage, sendPhotoMail, type MessageSender } from "./services/mail.ts";
-import { SessionService } from "./services/sessions.ts";
-import { createStorage, type Storage } from "./services/storage.ts";
+import { loadConfig, type Config } from "./config.js";
+import { emailRoutes, type MailSender } from "./routes/email.js";
+import { messageRoutes } from "./routes/message.js";
+import { photoRoutes } from "./routes/photos.js";
+import { printRoutes } from "./routes/print.js";
+import { qrRoutes } from "./routes/qr.js";
+import { sessionRoutes } from "./routes/sessions.js";
+import { sendOwnerMessage, sendPhotoMail, type MessageSender } from "./services/mail.js";
+import { SessionService } from "./services/sessions.js";
+import { createStorage, type Storage } from "./services/storage.js";
 
 export interface AppDeps {
   config?: Config;

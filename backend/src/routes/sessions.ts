@@ -1,8 +1,8 @@
 import { Hono } from "hono";
-import type { Config } from "../config.ts";
-import { detectImage, TOKEN_PATTERN } from "../lib/image.ts";
-import { rateLimit } from "../middleware/rateLimit.ts";
-import { SessionFullError, type SessionService } from "../services/sessions.ts";
+import type { Config } from "../config.js";
+import { detectImage, TOKEN_PATTERN } from "../lib/image.js";
+import { rateLimit } from "../middleware/rateLimit.js";
+import { SessionFullError, type SessionService } from "../services/sessions.js";
 
 export function sessionRoutes(config: Config, sessions: SessionService) {
   const app = new Hono();

@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import type { Config } from "../config.ts";
+import type { Config } from "../config.js";
 
 /**
  * Storage hanya menyimpan byte foto. Metadata session (token, expiry)

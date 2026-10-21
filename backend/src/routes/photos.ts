@@ -1,6 +1,6 @@
 import { Hono } from "hono";
-import { TOKEN_PATTERN } from "../lib/image.ts";
-import type { SessionService } from "../services/sessions.ts";
+import { TOKEN_PATTERN } from "../lib/image.js";
+import type { SessionService } from "../services/sessions.js";
 
 export function photoRoutes(sessions: SessionService) {
   const app = new Hono();

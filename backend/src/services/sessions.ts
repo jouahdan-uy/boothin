@@ -1,6 +1,6 @@
 import { randomBytes } from "node:crypto";
-import type { Config } from "../config.ts";
-import type { Storage } from "./storage.ts";
+import type { Config } from "../config.js";
+import type { Storage } from "./storage.js";
 
 export interface Session {
   token: string;
